@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vinhvinhvinh/LamaAdmin.git/static/css/main.8168d1c4.chunk.css",
+    "main.js": "/vinhvinhvinh/LamaAdmin.git/static/js/main.e3fe8618.chunk.js",
+    "main.js.map": "/vinhvinhvinh/LamaAdmin.git/static/js/main.e3fe8618.chunk.js.map",
+    "runtime-main.js": "/vinhvinhvinh/LamaAdmin.git/static/js/runtime-main.d90b7343.js",
+    "runtime-main.js.map": "/vinhvinhvinh/LamaAdmin.git/static/js/runtime-main.d90b7343.js.map",
+    "static/js/2.a4c0b388.chunk.js": "/vinhvinhvinh/LamaAdmin.git/static/js/2.a4c0b388.chunk.js",
+    "static/js/2.a4c0b388.chunk.js.map": "/vinhvinhvinh/LamaAdmin.git/static/js/2.a4c0b388.chunk.js.map",
+    "index.html": "/vinhvinhvinh/LamaAdmin.git/index.html",
+    "static/css/main.8168d1c4.chunk.css.map": "/vinhvinhvinh/LamaAdmin.git/static/css/main.8168d1c4.chunk.css.map",
+    "static/js/2.a4c0b388.chunk.js.LICENSE.txt": "/vinhvinhvinh/LamaAdmin.git/static/js/2.a4c0b388.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d90b7343.js",
+    "static/js/2.a4c0b388.chunk.js",
+    "static/css/main.8168d1c4.chunk.css",
+    "static/js/main.e3fe8618.chunk.js"
+  ]
+}
